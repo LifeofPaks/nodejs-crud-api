@@ -1,0 +1,30 @@
+[
+  {
+    "title": "The Devil You Know",
+    "year": "2023",
+    "genre": "Action, Thriller",
+    "rating": "7.9",
+    "id": "356e0e17-08ee-47b1-822e-50bb205a9904"
+  },
+  {
+    "title": "The Devil You Know",
+    "year": "2023",
+    "genre": "Action, Thriller",
+    "rating": "7.9",
+    "id": "bd46e6c5-a02b-4e7c-8b85-1994cb526810"
+  },
+  {
+    "title": "Smugglers",
+    "year": "2023",
+    "genre": "Action, Thriller",
+    "rating": "7.9",
+    "id": "f8bf3523-3091-4229-98e6-8290d83364b9"
+  },
+  {
+    "id": "6b08e8d6-a561-4535-8983-8b61fbe1edc9",
+    "title": "John Wick chapter 1",
+    "year": "2014",
+    "genre": "Action, Adventure",
+    "rating": "7.1"
+  }
+]
